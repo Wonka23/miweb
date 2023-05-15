@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "miweb",
+			"path": "."
+		},
+		{
+			"name": "tuto-vscode",
+			"path": "../../Desktop/tuto-vscode"
+		}
+	],
+	"settings": {}
+}
